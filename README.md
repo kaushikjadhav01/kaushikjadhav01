@@ -1,4 +1,4 @@
-<img src="cover.png" alt="Kaushik Jadhav Cover" />
+<img src="li_cover.png" alt="Kaushik Jadhav Cover" />
 <p align="left">
   <a href="https://github.com/kaushikjadhav01/kaushikjadhav01">
     <img src="https://komarev.com/ghpvc/?username=codemaker2015&color=red" alt="profile views" />
