@@ -1,4 +1,6 @@
-<img src="li_cover.png" alt="Kaushik Jadhav Cover" />
+<a href="https://www.linkedin.com/in/kajadhav">
+   <img src="li_cover.png" alt="Kaushik Jadhav Cover" />
+</a>
 <p align="left">
   <a href="https://github.com/kaushikjadhav01/kaushikjadhav01">
     <img src="https://komarev.com/ghpvc/?username=codemaker2015&color=red" alt="profile views" />
@@ -15,7 +17,7 @@
   <a href="https://medium.com/@kaushikjadhav01">
     <img alt="Medium" src="https://img.shields.io/badge/medium-75+-green?color=green&logo=medium">
   </a>
-  <a href="https://www.linkedin.com/in/kaushikjadhav01">
+  <a href="https://www.linkedin.com/in/kajadhav">
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.1K-blue?color=blue&logo=linkedin">
   </a>
   <a href="https://kajadhav.me">
