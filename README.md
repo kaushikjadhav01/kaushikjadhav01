@@ -45,3 +45,20 @@
 <li/>Being an INFJ, I am a rare mix of emotions + rationality. I can “connect” with people really well and help them likewise.</li>
 <li/>Applying my engineering skills to solve real life problems excites me.</li>
 </ul>
+
+## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikjadhav01&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaushikjadhav01&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=kaushikjadhav01&theme=discord)
+
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=kaushikjadhav01&theme=xcode)
+
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikjadhav01&layout=compact&theme=blue-green)
+![kaushikjadhav01 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green)
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![kaushikjadhav01 snake gif](https://github.com/kaushikjadhav01/kaushikjadhav01/blob/animated/github-contribution-grid-snake.svg)
