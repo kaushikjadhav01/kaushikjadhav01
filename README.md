@@ -61,4 +61,4 @@
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![kaushikjadhav01 snake gif](https://github.com/kaushikjadhav01/kaushikjadhav01/blob/main/animated/github-contribution-grid-snake.svg)
+![kaushikjadhav01 snake gif](https://raw.githubusercontent.com/kaushikjadhav01/kaushikjadhav01/output/github-contribution-grid-snake.svg)
