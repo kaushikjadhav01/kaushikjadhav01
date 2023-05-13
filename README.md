@@ -47,16 +47,15 @@
 </ul>
 
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
+<img src="animated/skyline.gif" width="700">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikjadhav01&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kaushikjadhav01&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+![kaushikjadhav01 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikjadhav01&layout=compact&theme=blue-green)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=kaushikjadhav01&theme=discord)
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=kaushikjadhav01&theme=xcode)
-
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikjadhav01&layout=compact&theme=blue-green)
-![kaushikjadhav01 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kaushikjadhav01&theme=react-dark&hide_border=true)](https://github.com/kaushikjadhav01/github-readme-activity-graph)
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
