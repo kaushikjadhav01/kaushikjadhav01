@@ -31,7 +31,7 @@
 # <img src="animated/fox.gif" height="30" /> Hey, I'm Kaushik Jadhav <img src="animated/hands.gif" height="30" />
 
 <p align="center">
-  <img src="animated/username1.gif" height="175px" /> 
+  <img src="animated/companies.gif" height="225px" /> 
 </p>
 
 ## 🚀 About Me
