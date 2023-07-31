@@ -52,7 +52,6 @@
 <li/>I like to use my skills to support my team by automating existing manual processes or introducing new ones.</li>
 <li/>I enjoy constantly improving my knowledge base by exploring new tools or collaborating with other developers. This often facilitates ideas and discussions that have a significant impact on my team’s objectives.</li>
 <li/>I am a curiosity driven individual and a fast learner.</li>
-<li/>Being an INFJ, I am a rare mix of emotions + rationality. I can “connect” with people really well and I like to help them likewise.</li>
 <li/>Applying my engineering skills to solve real life problems excites me.</li>
 </ul>
 
@@ -64,8 +63,6 @@
 ![kaushikjadhav01 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=kaushikjadhav01&theme=discord)
-
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kaushikjadhav01&theme=react-dark&hide_border=true)](https://github.com/kaushikjadhav01/github-readme-activity-graph)
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
@@ -100,11 +97,11 @@ _JASC 2019 (06/2019)_
 ![ruby](https://img.shields.io/badge/Ruby-A10E3B?style=for-the-badge&logo=ruby&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/sql-62B962?style=for-the-badge&logo=sql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-035375?style=for-the-badge&logo=C%20sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-5BA8C9?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-851773?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-317823?style=for-the-badge&logo=C%20&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-114836?style=for-the-badge&logo=c++&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-035375?style=for-the-badge&logo=C%20sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/Php-A10E3B?style=for-the-badge&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/R-789CAB?style=for-the-badge&logo=r&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
