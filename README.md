@@ -37,7 +37,7 @@
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://kajadhav.me)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/12OuGEL75X0GHmmJmj4Gtq1cfLou0See9/view?usp=share_link)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1EbPKwPSpcXjUGlDeT_S-JUwl32WwZsgI/view?usp=sharing)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kajadhav/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kaushikjadhav01)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kaushikjadhav01)
@@ -59,7 +59,7 @@
 <img src="animated/skyline.gif" width="700">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaushikjadhav01&theme=jolly&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaushikjadhav01&theme=jolly&date_format=j%20M%5B%20Y%5D)
 ![kaushikjadhav01 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=kaushikjadhav01&theme=discord)
