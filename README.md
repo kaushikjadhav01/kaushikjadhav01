@@ -62,7 +62,7 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaushikjadhav01&theme=jolly&date_format=j%20M%5B%20Y%5D)
 ![kaushikjadhav01 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=kaushikjadhav01&theme=discord)
+![Github Trophy](https://github-trophies.vercel.app/?username=kaushikjadhav01&theme=discord)
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
