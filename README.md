@@ -1,31 +1,3 @@
-
-
-# <img src="animated/fox.gif" height="30" /> Hey, I'm Kaushik Jadhav <img src="animated/hands.gif" height="30" />
-
-#<p align="center">
-#  <img src="animated/companies.gif" height="225px" /> 
-#</p>
-
-## 🔗 Links
-
-
-
-## 🚀 About Me
-
-<img src="animated/light_1.gif" height="20px" />  I am a Full Stack Developer with 3.5 yrs of engineering experience specializing in Backend, Dev-Ops and Cloud. I like doing cool things like exploring recent tools in the software industry, writing technical articles on Medium and participating in coding competitions. I have hands-on experience in developing large scale production level apps and my managers have always appreciated me for things like writing “efficient code”, taking ownership of other team's tasks and introducing new processes that helped achieve quality results faster.
-
-<ul>
-<li/>I like to use my skills to support my team by automating existing manual processes or introducing new ones.</li>
-<li/>I enjoy constantly improving my knowledge base by exploring new tools or collaborating with other developers. This often facilitates ideas and discussions that have a significant impact on my team’s objectives.</li>
-<li/>I am a curiosity driven individual and a fast learner.</li>
-<li/>Applying my engineering skills to solve real life problems excites me.</li>
-</ul>
-
-## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
-# <img src="animated/skyline.gif" width="700">
-
-# ![Github Stats](https://github-readme-stats.vercel.app/api?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaushikjadhav01&theme=jolly&date_format=j%20M%5B%20Y%5D)
 ![kaushikjadhav01 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 ![Github Trophy](https://github-trophies.vercel.app/?username=kaushikjadhav01&theme=discord)
