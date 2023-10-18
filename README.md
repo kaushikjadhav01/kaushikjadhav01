@@ -30,10 +30,6 @@
 
 # <img src="animated/fox.gif" height="30" /> Hey, I'm Kaushik Jadhav <img src="animated/hands.gif" height="30" />
 
-<p align="center">
-  <img src="animated/companies.gif" height="225px" /> 
-</p>
-
 ## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
 # <img src="animated/skyline.gif" width="700">
 
