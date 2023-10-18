@@ -28,6 +28,21 @@
   </a>
 </p>
 
+# <img src="animated/fox.gif" height="30" /> Hey, I'm Kaushik Jadhav <img src="animated/hands.gif" height="30" />
+
+<p align="center">
+  <img src="animated/companies.gif" height="225px" /> 
+</p>
+
+## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaushikjadhav01&theme=jolly&date_format=j%20M%5B%20Y%5D)
+![kaushikjadhav01 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+![Github Trophy](https://github-trophies.vercel.app/?username=kaushikjadhav01&theme=discord)
+<img src="animated/skyline.gif" width="700">
+
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://kajadhav.me)
@@ -48,15 +63,6 @@
 <li/>I am a curiosity driven individual and a fast learner.</li>
 <li/>Applying my engineering skills to solve real life problems excites me.</li>
 </ul>
-
-## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
-<img src="animated/skyline.gif" width="700">
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaushikjadhav01&theme=jolly&date_format=j%20M%5B%20Y%5D)
-![kaushikjadhav01 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
-![Github Trophy](https://github-trophies.vercel.app/?username=kaushikjadhav01&theme=discord)
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
