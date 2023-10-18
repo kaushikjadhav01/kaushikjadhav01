@@ -1,32 +1,4 @@
-<a href="https://www.linkedin.com/in/kajadhav">
-   <img src="li_cover.png" alt="Kaushik Jadhav Cover" />
-</a>
-<p align="left">
-  <a href="https://github.com/kaushikjadhav01/kaushikjadhav01">
-    <img src="https://komarev.com/ghpvc/?username=codemaker2015&color=red" alt="profile views" />
-  </a>
-  <a href="https://stackoverflow.com/users/21890981">
-    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/21890981?color=orange&label=reputation&logo=stackoverflow">
-  </a>
-<!--   <a href="https://www.hackerrank.com/codemaker2015">
-    <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-15+-green?color=green&logo=hackerrank">
-  </a> -->
-  <a href="https://github.com/kaushikjadhav01?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/kaushikjadhav01?color=yellow&logo=github">
-  </a>
-  <a href="https://medium.com/@kaushikjadhav01">
-    <img alt="Medium" src="https://img.shields.io/badge/medium-75+-green?color=green&logo=medium">
-  </a>
-  <a href="https://www.linkedin.com/in/kajadhav">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.1K-blue?color=blue&logo=linkedin">
-  </a>
-  <a href="https://kajadhav.me">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio_Views-3000-violet?color=indigo&logo=readme">
-  </a>
-  <a href="https://www.instagram.com/kaushikjadhav01">
-    <img alt="Instagram Followers" src="https://img.shields.io/badge/friends-162-blue?color=violet&logo=instagram">
-  </a>
-</p>
+
 
 # <img src="animated/fox.gif" height="30" /> Hey, I'm Kaushik Jadhav <img src="animated/hands.gif" height="30" />
 
@@ -36,13 +8,7 @@
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://kajadhav.me)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1EbPKwPSpcXjUGlDeT_S-JUwl32WwZsgI/view?usp=sharing)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kajadhav/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kaushikjadhav01)
-[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kaushikjadhav01)
-[![dev](https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kaushikjadhav01)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kajadhav@ncsu.edu)
+
 
 ## 🚀 About Me
 
