@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/kajadhav">
-   <img src="li_cover.png" alt="Kaushik Jadhav Cover" />
+   <img src="li_cover.png" alt="Kaushik Jadhav Cover" height="240px"/>
 </a>
 <p align="left">
   <a href="https://github.com/kaushikjadhav01/kaushikjadhav01">
@@ -22,9 +22,6 @@
   </a>
   <a href="https://kajadhav.me">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio_Views-3000-violet?color=indigo&logo=readme">
-  </a>
-  <a href="https://www.instagram.com/kaushikjadhav01">
-    <img alt="Instagram Followers" src="https://img.shields.io/badge/friends-162-blue?color=violet&logo=instagram">
   </a>
 </p>
 
