@@ -25,8 +25,8 @@
   </a>
 </p>
 
-## <img src="animated/fox.gif" height="30" /> Hey, I'm Kaushik Jadhav <img src="animated/hands.gif" height="30" />
-<img src="animated/companies.gif" height="110px" width="304px" alt="My Organizations"/>&nbsp;
+# <img src="animated/fox.gif" height="30" /> Hey, I'm Kaushik Jadhav <img src="animated/hands.gif" height="30" />
+<img src="animated/companies.gif" height="130px" width="270px" alt="My Organizations"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true" alt="Github Stats" width="378px" height="140px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" alt="GitHub Langs" height="110px" width="200px"/>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=kaushikjadhav01&theme=jolly&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="140px" width="355px"/>
