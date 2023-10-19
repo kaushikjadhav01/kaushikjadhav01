@@ -29,14 +29,14 @@
 </p>
 
 # <img src="animated/fox.gif" height="30" /> Hey, I'm Kaushik Jadhav <img src="animated/hands.gif" height="30" /> 
-<img src="animated/companies.gif" height="165px" alt="My Organizations"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true" alt="Github Stats" width="390px"/>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=kaushikjadhav01&theme=jolly&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="140px"/>
-<img src="https://github-trophies.vercel.app/?username=kaushikjadhav01&theme=discord" height="140px" alt="Github Trophies"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" alt="GitHub Langs" width="200px"/>
-<img src="https://raw.githubusercontent.com/kaushikjadhav01/kaushikjadhav01/output/github-contribution-grid-snake.svg" alt="Snake Gif" width="558px"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green" alt="kaushikjadhav01 wakatime stats" height="250px"/>
-<img src="animated/skyline.gif" width="475">
+<img src="animated/companies.gif" height="170px" width="334px" alt="My Organizations"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true" alt="Github Stats" width="405px" height="163px"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=kaushikjadhav01&theme=jolly&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="140px" width="355px"/>
+<img src="https://github-trophies.vercel.app/?username=kaushikjadhav01&theme=discord" width="420px" height="140px" alt="Github Trophies"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" alt="GitHub Langs" height="110px" width="200px"/>
+<img src="https://raw.githubusercontent.com/kaushikjadhav01/kaushikjadhav01/output/github-contribution-grid-snake.svg" alt="Snake Gif" width="558px" height="122px"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green" alt="kaushikjadhav01 wakatime stats" height="250px" width="250px"/>
+<img src="animated/skyline.gif" width="475" height="252px">
 
 ## 🔗 Links
 
