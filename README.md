@@ -34,7 +34,7 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=kaushikjadhav01&theme=jolly&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="140px"/>
 <img src="https://github-trophies.vercel.app/?username=kaushikjadhav01&theme=discord" height="140px" alt="Github Trophies"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" alt="GitHub Langs" width="185px"/>
-<img src="https://raw.githubusercontent.com/kaushikjadhav01/kaushikjadhav01/output/github-contribution-grid-snake.gif" alt="Snake Gif" width="543px"/>
+<img src="https://github.com/kaushikjadhav01/kaushikjadhav01/blob/output/github-contribution-grid-snake.gif" alt="Snake Gif" width="543px"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green" alt="kaushikjadhav01 wakatime stats" height="240px"/>
 <img src="animated/skyline.gif" width="445">
 
