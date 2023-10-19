@@ -28,20 +28,14 @@
   </a>
 </p>
 
-# <img src="animated/fox.gif" height="30" /> Hey, I'm Kaushik Jadhav <img src="animated/hands.gif" height="30" />
-
-<p align="center">
-  <img src="animated/companies.gif" height="225px" /> 
-</p>
-
-## <img src="animated/light_5.gif" height="30px" /> My Stats <img src="animated/loading.gif" height="20px" />
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaushikjadhav01&theme=jolly&date_format=j%20M%5B%20Y%5D)
-![kaushikjadhav01 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
-![Github Trophy](https://github-trophies.vercel.app/?username=kaushikjadhav01&theme=discord)
-<img src="animated/skyline.gif" width="700">
+# <img src="animated/fox.gif" height="30" /> Hey, I'm Kaushik Jadhav <img src="animated/hands.gif" height="30" /> 
+<img src="animated/companies.gif" height="160px" alt="My Organizations"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true" alt="Github Stats" width="380px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" alt="GitHub Langs" width="290px"/>
+<img src="https://github-trophies.vercel.app/?username=kaushikjadhav01&theme=discord" height="180px" alt="Github Trophies"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=kaushikjadhav01&theme=jolly&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green" alt="kaushikjadhav01 wakatime stats" height="325px"/>
+<img src="animated/skyline.gif" width="612">
 
 ## 🔗 Links
 
