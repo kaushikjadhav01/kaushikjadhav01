@@ -25,7 +25,7 @@
   </a>
 </p>
 
-# <img src="animated/fox.gif" height="30" /> Hey, I'm Kaushik Jadhav <img src="animated/hands.gif" height="30" />
+# <a href="https://kajadhav.me/">Hey, I'm Kaushik Jadhav <a/>
 <img src="animated/companies.gif" height="130px" width="264px" alt="My Organizations"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true" height="131px" width="320px" alt="Github Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" height="132px" width="240px" alt="GitHub Langs"/>
