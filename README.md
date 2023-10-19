@@ -30,12 +30,13 @@
 
 # <img src="animated/fox.gif" height="30" /> Hey, I'm Kaushik Jadhav <img src="animated/hands.gif" height="30" /> 
 <img src="animated/companies.gif" height="160px" alt="My Organizations"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true" alt="Github Stats" width="380px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" alt="GitHub Langs" width="290px"/>
-<img src="https://github-trophies.vercel.app/?username=kaushikjadhav01&theme=discord" height="180px" alt="Github Trophies"/>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=kaushikjadhav01&theme=jolly&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green" alt="kaushikjadhav01 wakatime stats" height="325px"/>
-<img src="animated/skyline.gif" width="612">
+<img src="https://github-readme-stats.vercel.app/api?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true" alt="Github Stats" width="385px"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=kaushikjadhav01&theme=jolly&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="130px"/>
+<img src="https://github-trophies.vercel.app/?username=kaushikjadhav01&theme=discord" height="130px" alt="Github Trophies"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" alt="GitHub Langs" width="175px"/>
+<img src="https://raw.githubusercontent.com/kaushikjadhav01/kaushikjadhav01/output/github-contribution-grid-snake.svg" alt="Snake Gif" width="533px"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green" alt="kaushikjadhav01 wakatime stats" height="230px"/>
+<img src="animated/skyline.gif" width="435">
 
 ## 🔗 Links
 
@@ -57,11 +58,6 @@
 <li/>I am a curiosity driven individual and a fast learner.</li>
 <li/>Applying my engineering skills to solve real life problems excites me.</li>
 </ul>
-
-### Watch my contribution graph get eaten by the snake 🐍
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![kaushikjadhav01 snake gif](https://raw.githubusercontent.com/kaushikjadhav01/kaushikjadhav01/output/github-contribution-grid-snake.svg)
 
 ## 🏅 Achievements
 
