@@ -26,9 +26,9 @@
 </p>
 
 # <img src="animated/fox.gif" height="30" /> Hey, I'm Kaushik Jadhav <img src="animated/hands.gif" height="30" />
-<img src="animated/companies.gif" height="130px" alt="My Organizations"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true" width="320px" alt="Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" width="240px" alt="GitHub Langs"/>
+<img src="animated/companies.gif" height="130px" width="264px" alt="My Organizations"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=kaushikjadhav01&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true" height="133px" width="320px" alt="Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" height="132px" width="240px" alt="GitHub Langs"/>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=kaushikjadhav01&theme=jolly&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="140px" width="355px"/>
 <img src="https://github-trophies.vercel.app/?username=kaushikjadhav01&theme=discord" width="420px" height="140px" alt="Github Trophies"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green" alt="kaushikjadhav01 wakatime stats" width="278px"/>
