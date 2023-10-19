@@ -36,7 +36,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemaker2015&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact" alt="GitHub Langs" height="110px" width="200px"/>
 <img src="https://raw.githubusercontent.com/kaushikjadhav01/kaushikjadhav01/output/github-contribution-grid-snake.svg" alt="Snake Gif" width="560px" height="130px"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green" alt="kaushikjadhav01 wakatime stats" height="270px" width="270px"/>
-<img src="animated/skyline.gif" width="450" height="230px">
+<img src="animated/skyline.gif" width="440" height="220px">
 
 ## 🔗 Links
 
