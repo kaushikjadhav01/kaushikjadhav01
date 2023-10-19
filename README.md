@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/kajadhav">
-   <img src="li_cover.png" alt="Kaushik Jadhav Cover" height="240px"/>
+   <img src="li_cover.png" alt="Kaushik Jadhav Cover" height="250px"/>
 </a>
 <p align="left">
   <a href="https://github.com/kaushikjadhav01/kaushikjadhav01">
