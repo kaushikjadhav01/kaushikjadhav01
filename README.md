@@ -3,7 +3,7 @@
 </a>
 <p align="left">
   <a href="https://github.com/kaushikjadhav01/kaushikjadhav01">
-    <img src="https://komarev.com/ghpvc/?username=codemaker2015&color=red" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=kaushikjadhav01&color=red" alt="profile views" />
   </a>
   <a href="https://stackoverflow.com/users/21890981">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/21890981?color=orange&label=reputation&logo=stackoverflow">
