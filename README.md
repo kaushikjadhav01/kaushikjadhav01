@@ -73,7 +73,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=python" alt="icon" width="65" height="65" />
       </a>
       <br>Python
     </td>
@@ -82,7 +82,7 @@
       <br>Ruby
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center" width="96">
@@ -90,11 +90,11 @@
       <br>SQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="65" height="65" />
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=java" alt="icon" width="65" height="65" />
       <br>Java
     </td>
     <tr>
@@ -116,7 +116,7 @@
       <br>C
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="65" height="65" />
       <br>C++
     </td>
     <td align="center"  width="96">
@@ -126,7 +126,7 @@
     <tr>
     </tr>
     <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="HTML" />
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="HTML" />
       <br>Typescript
     </td>
     <td align="center" width="96">
@@ -157,7 +157,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="65" height="65" />
       </a>
       <br>React
     </td>
@@ -174,7 +174,7 @@
       <br>Vue.JS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=graphql" alt="icon" width="65" height="65" />
       <br>GraphQL
     </td>
     <td align="center" width="96">
@@ -184,7 +184,7 @@
     <tr>
     </tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="65" height="65" />
       <br>Redux
     </td>
     <td align="center" width="96">
