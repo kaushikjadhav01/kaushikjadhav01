@@ -21,7 +21,7 @@
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.1K-blue?color=blue&logo=linkedin">
   </a>
   <a href="https://kajadhav.me">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio_Views-3000-violet?color=indigo&logo=readme">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio_Views-3K+-violet?color=indigo&logo=readme">
   </a>
 </p>
 
@@ -33,6 +33,8 @@
 <img src="https://github-trophies.vercel.app/?username=kaushikjadhav01&theme=discord" width="420px" height="140px" alt="Github Trophies"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green" alt="kaushikjadhav01 wakatime stats" width="278px"/>
 <img src="animated/skyline.gif" width="440">
+<a href="https://app.daily.dev/kaushikjadhav01"><img src="https://api.daily.dev/devcards/895c8eecd3614f3d90e7d6fd32a765a2.png?r=fcy" width="250" alt="Kaushik Jadhav's Dev Card"/></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushikjadhav01&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true"  alt="kaushikjadhav01 activity graph" width="650px">
 
 ## 🔗 Links
 
@@ -43,10 +45,14 @@
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kaushikjadhav01)
 [![dev](https://img.shields.io/badge/dev-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kaushikjadhav01)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kajadhav@ncsu.edu)
-
+[![codesignal](https://img.shields.io/badge/CodeSignal-1062FB?style=for-the-badge&logo=codesignal&logoColor=white)](https://app.codesignal.com/profile/kaushik_j_vtc)
+[![google-scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=codesignal&logoColor=white)](https://scholar.google.com/citations?user=iRYcFi0AAAAJ)
+[![daily-dev](https://img.shields.io/badge/Daily.Dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://app.daily.dev/kaushikjadhav01)
+[![google-devs](https://img.shields.io/badge/Google_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/kaushikjadhav01)
+[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/21890981/kaushik-jadhav)
 ## 🚀 About Me
 
-<img src="animated/light_1.gif" height="20px" />  I am a Full Stack Developer with 3.5 yrs of engineering experience specializing in Backend, Dev-Ops and Cloud. I like doing cool things like exploring recent tools in the software industry, writing technical articles on Medium and participating in coding competitions. I have hands-on experience in developing large scale production level apps and my managers have always appreciated me for things like writing “efficient code”, taking ownership of other team's tasks and introducing new processes that helped achieve quality results faster.
+<img src="animated/light_1.gif" height="20px" />  I am a Full Stack Developer with 4.5 yrs of engineering experience specializing in Backend, Dev-Ops and Cloud. I like doing cool things like exploring recent tools in the software industry, writing technical articles on Medium and participating in coding competitions. I have hands-on experience in developing large scale production level apps and my managers have always appreciated me for things like writing “efficient code”, taking ownership of other team's tasks and introducing new processes that helped achieve quality results faster.
 
 <ul>
 <li/>I like to use my skills to support my team by automating existing manual processes or introducing new ones.</li>
