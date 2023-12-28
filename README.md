@@ -89,20 +89,78 @@ _JASC 2019 (06/2019)_
 ## 🛠️ Skills
 
 ### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ruby](https://img.shields.io/badge/Ruby-A10E3B?style=for-the-badge&logo=ruby&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/sql-62B962?style=for-the-badge&logo=sql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-035375?style=for-the-badge&logo=C%20sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-5BA8C9?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-851773?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-317823?style=for-the-badge&logo=C%20&logoColor=white)
-![C++](https://img.shields.io/badge/C++-114836?style=for-the-badge&logo=c++&logoColor=white)
-![PHP](https://img.shields.io/badge/Php-A10E3B?style=for-the-badge&logo=php&logoColor=white)
-![R](https://img.shields.io/badge/R-789CAB?style=for-the-badge&logo=r&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/Go-DD861F?style=for-the-badge&logo=go&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ruby" alt="icon" width="65" height="65" />
+      <br>Ruby
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="65" height="65" />
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" alt="icon" width="65" height="65" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="65" height="65" />
+      <br>Kotlin
+    </td>
+    <tr>
+    </tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=swift" alt="icon" width="65" height="65" />
+      <br>Swift
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" alt="icon" width="65" height="65" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="HTML" />
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="dart" />
+      <br>R
+    </td> 
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="dart" />
+      <br>Go
+    </td>
+  </tr>
+</table>
 
 ### Front-End Development
 
