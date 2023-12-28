@@ -66,26 +66,6 @@
 <!-- platane/snk works, it just puts it on a new branch -->
 ![kaushikjadhav01 snake gif](https://raw.githubusercontent.com/kaushikjadhav01/kaushikjadhav01/output/github-contribution-grid-snake.svg)
 
-## 🏅 Achievements
-
--    🥇 **Received #1 and #2 prizes** in hackathons held at **IIT Bombay** TechFest
--    📜 **40+ certifications** from various learning platforms like _LinkedIn, Udemy, Coursera_
--    👩🏼‍💻 **50+ project repos** in _Github_
--    📝 **10+ articles** in _Medium_ and _Dev_
-
-## 📕 Publications
-
--    📰 **Predicting NASDAQ and NSE Stocks using Machine Learning Algorithms: ARIMA, LSTM & Linear Regression**
-_IJRASET 2020 (03/2020)_
--    📰 **Flask App for Real Time Sentiment Analysis of Tweets on NASDAQ and NSE Stocks**
-_IJRASET 2020 (03/2020)_
--    📰 **Building and Hosting a Computer Vision API on AWS using an EC2 instance**
-_ELSEVIER 2019 (12/2019)_
--    📰 **Implementation of private cloud based collaboration platforms: AWS Amazon VPC and own Cloud**
-_IJIRSET 2019 (08/2019)_
--    📰 **Wireless Sensors in IoT based Smart Restaurant**
-_JASC 2019 (06/2019)_
-
 ## 🛠️ Skills
 
 ### Languages
@@ -117,6 +97,8 @@ _JASC 2019 (06/2019)_
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
     </td>
+    <tr>
+    </tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" alt="icon" width="65" height="65" />
       <br>PHP
@@ -125,8 +107,6 @@ _JASC 2019 (06/2019)_
         <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="65" height="65" />
       <br>Kotlin
     </td>
-    <tr>
-    </tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=swift" alt="icon" width="65" height="65" />
       <br>Swift
@@ -143,6 +123,8 @@ _JASC 2019 (06/2019)_
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
+    <tr>
+    </tr>
     <td align="center"  width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="HTML" />
       <br>Typescript
@@ -159,22 +141,74 @@ _JASC 2019 (06/2019)_
       <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="dart" />
       <br>Go
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=scala" width="48" height="48" alt="dart" />
+      <br>Scala
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="dart" />
+      <br>Lua
+    </td>
   </tr>
 </table>
 
-### Front-End Development
-
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![angular](https://img.shields.io/badge/Angular-593D88?style=for-the-badge&logo=angular&logoColor=white)
-![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![wordpress](https://img.shields.io/badge/Wordpress-000000?style=for-the-badge&logo=wordpress&logoColor=FFFFFF)
-![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
-![three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+### Front-End Development Frameworks
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="65" height="65" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" alt="icon" width="65" height="65" />
+      <br>Wordpress
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="65" height="65" />
+      <br>Vue.JS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=threejs" alt="icon" width="65" height="65" />
+      <br>Three.JS
+    </td>
+    <tr>
+    </tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="65" height="65" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="65" height="65" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="65" height="65" />
+      <br>Jquery
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="HTML" />
+      <br>Tailwind
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="HTML" />
+      <br>SASS
+    </td>
+  </tr>
+</table>
 
 ### Back-End Development
 
@@ -233,3 +267,23 @@ _JASC 2019 (06/2019)_
 
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cucumber](https://img.shields.io/badge/Cucmber-4EA94B?style=for-the-badge&logo=cucumber&logoColor=white)
+
+## 🏅 Achievements
+
+-    🥇 **Received #1 and #2 prizes** in hackathons held at **IIT Bombay** TechFest
+-    📜 **40+ certifications** from various learning platforms like _LinkedIn, Udemy, Coursera_
+-    👩🏼‍💻 **50+ project repos** in _Github_
+-    📝 **10+ articles** in _Medium_ and _Dev_
+
+## 📕 Publications
+
+-    📰 **Predicting NASDAQ and NSE Stocks using Machine Learning Algorithms: ARIMA, LSTM & Linear Regression**
+_IJRASET 2020 (03/2020)_
+-    📰 **Flask App for Real Time Sentiment Analysis of Tweets on NASDAQ and NSE Stocks**
+_IJRASET 2020 (03/2020)_
+-    📰 **Building and Hosting a Computer Vision API on AWS using an EC2 instance**
+_ELSEVIER 2019 (12/2019)_
+-    📰 **Implementation of private cloud based collaboration platforms: AWS Amazon VPC and own Cloud**
+_IJIRSET 2019 (08/2019)_
+-    📰 **Wireless Sensors in IoT based Smart Restaurant**
+_JASC 2019 (06/2019)_
