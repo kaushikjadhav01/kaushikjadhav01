@@ -34,7 +34,7 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=codemaker2015&layout=compact&theme=blue-green" alt="kaushikjadhav01 wakatime stats" width="278px"/>
 <img src="animated/skyline.gif" width="440">
 <a href="https://app.daily.dev/kaushikjadhav01"><img src="https://api.daily.dev/devcards/895c8eecd3614f3d90e7d6fd32a765a2.png?r=fcy" width="250" alt="Kaushik Jadhav's Dev Card"/></a>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushikjadhav01&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true"  alt="kaushikjadhav01 activity graph" width="650px">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaushikjadhav01&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true"  alt="kaushikjadhav01 activity graph" width="600px">
 
 ## 🔗 Links
 
