@@ -68,7 +68,7 @@
 
 ## 🛠️ Skills
 
-### Languages
+### Programming Languages
 <table>
   <tr>
     <td align="center" width="96">
@@ -78,8 +78,8 @@
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ruby" alt="icon" width="65" height="65" />
-      <br>Ruby
+        <img src="https://skillicons.dev/icons?i=java" alt="icon" width="65" height="65" />
+      <br>Java
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
@@ -94,8 +94,8 @@
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" alt="icon" width="65" height="65" />
-      <br>Java
+        <img src="https://skillicons.dev/icons?i=ruby" alt="icon" width="65" height="65" />
+      <br>Ruby
     </td>
     <tr>
     </tr>
@@ -152,7 +152,7 @@
   </tr>
 </table>
 
-### Front-End Development Frameworks
+### Front-End Frameworks
 <table>
   <tr>
     <td align="center" width="96">
@@ -210,63 +210,204 @@
   </tr>
 </table>
 
-### Back-End Development
-
-![django](https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=white)
-![flask](https://img.shields.io/badge/Flask-4EA94B?style=for-the-badge&logo=flask&logoColor=white)
-![rubyonrails](https://img.shields.io/badge/Ruby_on_Rails-A10E3B?style=for-the-badge&logo=rubyonrails&logoColor=white)
-![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![expressjs](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white)
-![gunicorn](https://img.shields.io/badge/Gunicorn-ff3399?style=for-the-badge&logo=graphql&logoColor=white)
-![hadoop](https://img.shields.io/badge/Hadoop-cc9900?style=for-the-badge&logo=hadoop&logoColor=white)
-![nginx](https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white)
-![redis](https://img.shields.io/badge/Redis-cc0000?style=for-the-badge&logo=redis&logoColor=white)
-![celery](https://img.shields.io/badge/Celery-66ff66?style=for-the-badge&logo=celery&logoColor=white)
-
-### Mobile App Development
-
-![android](https://img.shields.io/badge/Android-66ff66?style=for-the-badge&logo=android&logoColor=white)
-![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
-![dart](https://img.shields.io/badge/Dart-3366cc?style=for-the-badge&logo=dart&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin-cc0000?style=for-the-badge&logo=kotlin&logoColor=white)
-![react native](https://img.shields.io/badge/React%20Native-2C2E3B?style=for-the-badge&logo=react&logoColor=white)
+### Back-End Frameworks
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=django" alt="icon" width="65" height="65" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="65" height="65" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" alt="icon" width="65" height="65" />
+      <br>.NET
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="65" height="65" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rails" alt="icon" width="65" height="65" />
+      <br>Ruby on Rails
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" />
+      <br>Node.JS
+    </td>
+    <tr>
+    </tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" alt="icon" width="65" height="65" />
+      <br>Express.JS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="65" height="65" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="65" height="65" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" alt="icon" width="65" height="65" />
+      <br>Redis
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="HTML" />
+      <br>TensorFlow
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="HTML" />
+      <br>PyTorch
+    </td>
+  </tr>
+</table>
 
 ### Database
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="65" height="65" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="65" height="65" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" alt="icon" width="65" height="65" />
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/kaushikjadhav01/kaushikjadhav01/blob/main/animated/microsoft-sql-server-logo.svg" alt="icon" width="65" height="65" />
+      <br>SQL Server
+    </td>
+    <tr>
+    </tr>
+</table>
 
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-cc6600?style=for-the-badge&logo=mysql&logoColor=white)
-![oracle](https://img.shields.io/badge/Oracle-990000?style=for-the-badge&logo=oracle&logoColor=white)
-![mssql](https://img.shields.io/badge/MS_SQL-999966?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![neo4j](https://img.shields.io/badge/Neo4j-1BACEE?style=for-the-badge&logo=neo4j&logoColor=white)
-![hive](https://img.shields.io/badge/Hive-cc9900?style=for-the-badge&logo=hive&logoColor=white)
-![sqlite](https://img.shields.io/badge/SQLite-0099ff?style=for-the-badge&logo=sqlite&logoColor=white)
+### Mobile App Development
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=androidstudio" alt="icon" width="65" height="65" />
+      </a>
+      <br>Android Studio
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="65" height="65" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="65" height="65" />
+      <br>React Native
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" alt="icon" width="65" height="65" />
+      <br>Dart
+    </td>
+    <tr>
+    </tr>
+</table>
 
 ### DevOps
-
-![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![gcp](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=whit)
-![docker](https://img.shields.io/badge/Docker-006699?style=for-the-badge&logo=docker&logoColor=white)
-![kubernetes](https://img.shields.io/badge/Kubernetes-0066cc?style=for-the-badge&logo=kubernetes&logoColor=white)
-![jenkins](https://img.shields.io/badge/Jenkins-cc6600?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### Backend as a Service (BaaS)
-
-![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="65" height="65" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="65" height="65" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="65" height="65" />
+      <br>GCP
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kubernetes" alt="icon" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jenkins" alt="icon" width="65" height="65" />
+      <br>Jenkins
+    </td>
+    <tr>
+    </tr>
+</table>
 
 ### Design Tools
-
-![adobe-xd](https://img.shields.io/badge/adobe_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![blender](https://img.shields.io/badge/Blender-ff9900?style=for-the-badge&logo=blender&logoColor=white)
-![photoshop](https://img.shields.io/badge/Photoshop-3366cc?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=xd" alt="icon" width="65" height="65" />
+      </a>
+      <br>Adobe XD
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="65" height="65" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=blender" alt="icon" width="65" height="65" />
+      <br>Blender
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=photoshop" alt="icon" width="65" height="65" />
+      <br>Photoshop
+    </td>
+    <tr>
+    </tr>
+</table>
 
 ### Testing
-
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![cucumber](https://img.shields.io/badge/Cucmber-4EA94B?style=for-the-badge&logo=cucumber&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=jest" alt="icon" width="65" height="65" />
+      </a>
+      <br>Jest
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=selenium" alt="icon" width="65" height="65" />
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/kaushikjadhav01/kaushikjadhav01/blob/main/animated/pytest-logo.svg" alt="icon" width="65" height="65" />
+      <br>PyTest
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/kaushikjadhav01/kaushikjadhav01/blob/main/animated/cucumber-logo.png" alt="icon" width="65" height="65" />
+      <br>Cucumber
+    </td>
+    <tr>
+    </tr>
+</table>
 
 ## 🏅 Achievements
 
