@@ -61,11 +61,6 @@
 <li/>Applying my engineering skills to solve real life problems excites me.</li>
 </ul>
 
-### Watch my contribution graph get eaten by the snake 🐍
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![kaushikjadhav01 snake gif](https://raw.githubusercontent.com/kaushikjadhav01/kaushikjadhav01/output/github-contribution-grid-snake.svg)
-
 ## 🛠️ Skills
 
 ### Programming Languages
@@ -428,3 +423,8 @@ _ELSEVIER 2019 (12/2019)_
 _IJIRSET 2019 (08/2019)_
 -    📰 **Wireless Sensors in IoT based Smart Restaurant**
 _JASC 2019 (06/2019)_
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![kaushikjadhav01 snake gif](https://raw.githubusercontent.com/kaushikjadhav01/kaushikjadhav01/output/github-contribution-grid-snake.svg)
